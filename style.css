@@ -1,0 +1,29 @@
+.bg{
+    background-color: blue;
+    border-radius: 5px;
+    margin: 25px;
+}
+
+.bigger-heading{
+    font-size: larger;
+    text-align: center;
+    color: red;
+}
+
+.smaller-heading{
+    font-size: large;
+    text-align: left;
+    color: chocolate;
+}
+
+.paragraph{
+    font-style: italic;
+    color: white;
+    background-color: blueviolet;
+    padding: 5px;
+    margin: 2px;
+}
+
+.images{
+    border-radius: 15px;
+}
